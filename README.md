@@ -6,6 +6,8 @@ This digital drum is created with Vanilla JavaScript
 
 You can play sounds using mouse as well as using keys
 
+[live demo](https://akaki16.github.io/Digital-Drum/)
+
 ### Running documentation
 
 Open terminal in your browser
